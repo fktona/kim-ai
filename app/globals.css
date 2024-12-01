@@ -25,3 +25,18 @@ body {
     text-wrap: balance;
   }
 }
+
+.button {
+  border-radius: 16.117px;
+  background: #fdc7c2;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10.128px;
+  color: #000;
+  font-family: Avenir;
+  font-style: normal;
+  font-weight: 900;
+  line-height: normal;
+  box-shadow: -4px 5px 0px black;
+}
