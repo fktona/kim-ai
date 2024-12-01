@@ -38,7 +38,7 @@ export default function Page() {
             </button>
           </Link>
           <Link
-            href="https://pump.fun/coin/Kimv6WisSiw7hTS1fyiMCuhcNwhNhKDoZ1QVMXcrd7Rpump"
+            href="https://pump.fun/coin/Kimv6WisSiw7hTS1fyiMCuhcNwhNhKDoZ1QVMXcrd7R"
             target="_blank"
           >
             <button className="rounded-full bg-[#174442] active:scale-95 transition-all duration-300  px-[36px] py-[12px] text-white ">
